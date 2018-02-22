@@ -1,21 +1,17 @@
 <h1>Introduction</h1>
-INTUZ is presenting an interesting Video Triming Control to integrate inside your iOS based application. 
-Please follow the below steps to integrate this control in your next project.
+INTUZ is presenting an interesting Color Picker to integrate inside your iOS based application. 
+Please follow the below steps to integrate this control in your project.
 
 <br/><br/>
 <h1>Features</h1>
 
-- Easy & fast video trimming & modifications process.
-- You can select a range of videos to be trimmed.
-- Ability to pick/capture a starting and ending point of video for trimming process.
-- Ability to play selected range of video before trimming.
-- Video quality remain as it have in original files.
-- You can play video range before actually trimming the video.
+- Easy & fast ways to pick colors.
+- You can able to change color alpha component.
 - Fully customizable layout.
 
 <br/><br/>
 
-![Alt text](Documents/ColorPicker.gif?raw=true "Title")
+![Alt text](Screenshots/ColorPicker.gif?raw=true "Title")
 
 
 <br/><br/>
